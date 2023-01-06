@@ -26,7 +26,7 @@
     "react-redux": "^5.0.7",
     "react-redux-loading-bar": "^4.2.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "react-search-input": "^0.11.3",
     "reactstrap": "^7.1.0",
     "recompose": "^0.30.0",
